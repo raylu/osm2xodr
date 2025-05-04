@@ -1,0 +1,9 @@
+[project]
+name = "OSMParser"
+version = "0.0.1"
+dependencies = [
+	"pyproj",
+	"osmread",
+	"numpy",
+	"Pillow",
+]
